@@ -1,3 +1,2 @@
 flask
 PyMuPDF
-base64
