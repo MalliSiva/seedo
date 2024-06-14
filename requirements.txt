@@ -1,2 +1,3 @@
 flask
-fitz
+PyMuPDF
+base64
